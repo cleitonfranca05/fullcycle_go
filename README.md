@@ -1,8 +1,8 @@
 # fullcycle_go
-Exercício  Docker imagem menor que 2 MB executar GOLANG
+Exercício  Docker imagem menor que 2MB executar GOLANG
 
 Link do Docker Hub <br>
-https://hub.docker.com/repository/docker/cleitonfranca05/fullcycle/general
+https://hub.docker.com/r/cleitonfranca05/fullcycle
 
-Comando para executar
+Comando para executar <br>
 sudo docker run cleitonfranca05/fullcycle
